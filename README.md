@@ -1,4 +1,3 @@
-# SamuelVieira
 # Electrical Engineering Student / Embedded Developer
 
 do a 1-2 sentence summary of me 
