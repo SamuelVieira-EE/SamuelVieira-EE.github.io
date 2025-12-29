@@ -1,7 +1,6 @@
 # Electrical Engineering Student / Embedded Developer
 
-do a 1-2 sentence summary of me 
-
+Engineer student who loves to code and learn is always hard at work, which I think is the key to success. 
 
 ## Repositories / Projects 
 - [Python Engineering Tools](https://github.com/SamuelVieira-EE/Python-Engineering-Tools)
@@ -12,7 +11,8 @@ do a 1-2 sentence summary of me
 - [Simulations Library](https://github.com/SamuelVieira-EE/Simulations-Library)
 
 ## Featured Project 
-
-do 1 project thats a bigger one
+The project that is mostly included is a pen that I made to be a study tool that was 3D desgined, coded, and built, that used 3D design AI trainning many models and coded to fit my needs. Using a camera embedded in the pen would look at a question and give an answer.
 
 Contacts
+work.samuelvieira@gmail.com
+www.linkedin.com/in/samuelvieirawork
