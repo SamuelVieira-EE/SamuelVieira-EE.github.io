@@ -3,7 +3,7 @@
 Engineer student who loves to code and learn is always hard at work, which I think is the key to success. 
 
 ## Repositories / Projects 
-- [Scope Analyzer Python Tool]((https://github.com/SamuelVieira-EE/Scope-Analyzer-Python-Tool-))
+- [Scope Analyzer Python Tool](https://github.com/SamuelVieira-EE/Scope-Analyzer-Python-Tool-)
 - [Embedded Systems Firmware](https://github.com/SamuelVieira-EE/Embedded-Systems-Firmware)
 - [Hardware Design Schematics](https://github.com/SamuelVieira-EE/Hardware-Design-Schematics)
 - [Digital Logic Design](https://github.com/SamuelVieira-EE/Digital-Logic-Design)
