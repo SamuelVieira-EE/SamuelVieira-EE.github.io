@@ -1,4 +1,4 @@
-# Electrical Engineering Student 
+# Electrical Engineering Student / hardware enjoyer
 
 Engineer student who loves to code and learn is always hard at work, which I think is the key to success. 
 
