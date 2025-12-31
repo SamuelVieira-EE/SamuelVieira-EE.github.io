@@ -1,4 +1,4 @@
-# Electrical Engineering Student / Embedded Developer
+# Electrical Engineering Student 
 
 Engineer student who loves to code and learn is always hard at work, which I think is the key to success. 
 
