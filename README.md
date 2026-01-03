@@ -4,8 +4,8 @@ Engineer student who loves to code and learn is always hard at work, which I thi
 
 ## Repositories / Projects 
 - [Scope Analyzer Python Tool](https://github.com/SamuelVieira-EE/Scope-Analyzer-Python-Tool-)
-- [c++-code-with-hardware](https://github.com/SamuelVieira-EE/c-code-with-hardware/tree/main)
-- [Verilog-fpga-simulation](https://github.com/SamuelVieira-EE/Verilog-fpga-simulation)
+- [c++ code with hardware](https://github.com/SamuelVieira-EE/c-code-with-hardware/tree/main)
+- [Verilog FPGA simulation](https://github.com/SamuelVieira-EE/Verilog-fpga-simulation)
 - [Hardware Design Schematics](https://github.com/SamuelVieira-EE/Hardware-Design-Schematics)
 - [Digital Logic Design](https://github.com/SamuelVieira-EE/Digital-Logic-Design)
 - [MATLAB Signal Processing](https://github.com/SamuelVieira-EE/MATLAB-Signal-Processing)
